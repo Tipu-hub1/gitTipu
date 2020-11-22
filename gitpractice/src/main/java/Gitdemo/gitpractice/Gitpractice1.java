@@ -10,6 +10,7 @@ public class Gitpractice1 {
 	// push changes to master branch remote git repo(github)
 	public static void main(String[] args) {
 		System.out.println("Hello");
+		System.out.println("new Hello");
 
 
 	}
